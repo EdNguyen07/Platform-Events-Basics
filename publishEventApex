@@ -1,3 +1,4 @@
+// Open Execute Anonymous Window
 // Create an instance of the event and store it in the newsEvent variable
 Cloud_News__e newsEvent = new Cloud_News__e(
            Location__c='Mountain City',
